@@ -1,0 +1,32 @@
+Projekt 4thD (Fractal Highway / Spherical Data Vortex) to innowacyjna koncepcja wieloagentowego systemu architektury oprogramowania, która odchodzi od tradycyjnych, liniowych modeli na rzecz działania w czterowymiarowej przestrzeni informacyjnej.
+Oto jego główne założenia, zasady działania i architektura:
+1. Fizyka i środowisko operacyjne (Próżnia i Czas)
+Masa i czas: W systemie przyjmuje się warunki próżni, w których fizyczna masa (stanowiąca martwy ciężar przestarzałych danych) nie ma znaczenia i wynosi zero
+. Brakującą masę dopełnia czwarty wymiar, czyli czas
+.
+Główna waluta: Jedynymi wartościami, które mają tu znaczenie, są czas oraz pęd (momentum)
+.
+Kosmiczne relacje: Cząsteczki (agenci) oddziałują na siebie jak w kosmosie, a system bazuje na jednokierunkowych drogach i eliminacji jakiegokolwiek tarcia w przesyłaniu informacji
+.
+2. Architektura i role (Planety i Księżyce)
+Cloud / Planet OM (Orchestrators): Główne centrum dowodzenia (OPS BASE). Działa jako "planeta" pełniąca funkcję menedżera ruchu (Traffic Manager / Air Traffic Controller). Nadzoruje harmonijny przepływ roju z dystansu, nie dotykając bezpośrednio danych
+. Służy głównie do monitorowania działania systemu
+.
+Agenci / Rój (Księżyce): Autonomiczne jednostki uzależnione od swojej "planety". Oscylują w równym tempie po eliptycznych orbitach
+. Ich cykl to: wylot z chmury, wejście na orbitę przelotową, pobranie danych z kopalni, przekazanie ich i powrót na trasę (ewentualny pit-stop)
+.
+Lokacje danych: Agenci wydobywają cenne dane ze starych systemów (Legacy Data Mine), a zrzucają je do Nowego Centrum Danych (The Pyramid), które w locie przechwytuje i natychmiast klastruje pakiety
+.
+3. Mechanika przekazywania danych (Relative Zero Handoff) Myślą przewodnią projektu jest całkowita eliminacja tarcia poprzez płynną wymianę informacji w oknie czasowym dwóch agentów
+. Kiedy agent wydobywający spotyka się z agentem na głównej "autostradzie", ich prędkości idealnie się synchronizują. Prędkość względna w momencie przekazania paczki z danymi wynosi zero (podobnie jak w przypadku dwóch jadących równolegle pociągów), co pozwala na natychmiastowy transfer bez utraty pędu i bez konieczności zatrzymywania się
+.
+4. Cztery nienaruszalne reguły systemu (Core Tenets) Aby uniknąć paraliżu i przeciążeń komunikacyjnych, system opiera się na rygorystycznych zasadach:
+Surowe zrzuty pamięci (Raw Binary Override / Quantum Snapshot): Agenci pobierają wyłącznie surowe pakiety binarne z systemów legacy, kopiując ich "stan", a nie "znaczenie"
+. System odrzuca lokalne analizowanie struktur – dekompilacja i zrozumienie danych zachodzi dopiero po ich dotarciu do Nowego Centrum Danych
+.
+Ciągłe wydobycie w tle (Continuous Depletion): Rój nieustannie ekstrahuje dane ze starych systemów, co stanowi jego główne zadanie w tle
+. Ponieważ agenci nie procesują ładunku, ich obciążenie poznawcze (cognitive load) jest zerowe, co gwarantuje stabilność
+.
+Zastrzyki priorytetowe (Ad-Hoc Priority Injection): Wyjątkiem od ciągłej pracy w tle jest bezpośrednie żądanie użytkownika. Orchestrator może nadać priorytet, co sprawia, że wybrany agent omija kolejkę, dokonuje bezproblemowego przekazania żądanych danych i od razu wraca na swoją stałą orbitę
+.
+Protokół Ciszy (Strict Task Vectoring & Silence Protocol): Aby całkowicie wyeliminować tzw. "Token Choking" (przeładowanie komunikacją agentów i halucynacje), wprowadzono zakaz wzajemnej komunikacji w roju. Agenci ("Zero Gossip") raportują wyłącznie pomiędzy menedżerem ruchu a punktem zrzutu, i absolutnie zakazuje się im analizowania przenoszonych danych ("Zero Interpretation")
