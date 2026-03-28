@@ -1,4 +1,4 @@
-# Fractal-AI-architecture
+# Rule 4thD zasada Ruchu niejednostajnie przyspieszonego
 Fractal AI architecture
 Rule 4thD - Principle of Non-Uniformly Accelerated Motion
 18 sources
